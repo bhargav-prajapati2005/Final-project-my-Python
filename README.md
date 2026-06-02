@@ -6,7 +6,7 @@ This project analyzes the Global Happiness Dataset to explore factors that influ
 
 The analysis includes data cleaning, exploratory data analysis (EDA), statistical summaries, and visualizations to identify patterns and trends in global happiness rankings.
 
-🎯 Objectives
+# 🎯 Objectives
 Clean and preprocess the dataset.
 Handle missing values and duplicate records.
 Generate descriptive statistics.
@@ -14,7 +14,7 @@ Identify the happiest and least happy countries.
 Analyze the distribution of happiness scores.
 Explore relationships between happiness and health indicators.
 Visualize correlations among numerical features.
-📊 Dataset
+# 📊 Dataset
 
 Dataset: Global Happiness Dataset
 
@@ -37,7 +37,7 @@ Pandas
 NumPy
 Matplotlib
 Seaborn
-🔍 Data Analysis Performed
+# 🔍 Data Analysis Performed
 1. Data Cleaning
 Removed missing values using dropna()
 Removed duplicate records using drop_duplicates()
@@ -71,7 +71,7 @@ Correlation Heatmap
 Highlights correlations among economic, social, and health factors.
 
 
-📌 Results
+# 📌 Results
 
 The analysis indicates that factors such as:
 
